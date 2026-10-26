@@ -19,3 +19,9 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/MrQwerty56/MrQwerty56/output/github-snake-dark.svg" alt="snake" />
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MrQwerty56/MrQwerty56/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contributions" width="100%" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
